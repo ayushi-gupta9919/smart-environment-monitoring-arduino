@@ -6,12 +6,12 @@ Real-time embedded system using Arduino to monitor temperature, humidity, and ai
 Sensors (DHT11, MQ135) → Arduino → Data Processing → OLED Display → Alert System (LED + Buzzer)
 
 <p align="center">
-  <img src="circuit.jpg" width="400" alt="Circuit Setup"><br>
+  <img src="circuit.jpeg" width="400" alt="Circuit Setup"><br>
   <b>Circuit Setup</b>
 </p>
 
 <p align="center">
-  <img src="oled-output.jpg" width="400" alt="OLED Output"><br>
+  <img src="oled-output.jpeg" width="400" alt="OLED Output"><br>
   <b>OLED Output Display</b>
 </p>
 
